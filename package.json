@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@directus/sdk": "^13.0.2",
+    "flowbite": "^2.2.0",
     "vue": "^3.3.10",
     "vue-query": "^1.26.0",
     "vue-router": "^4.2.5"
